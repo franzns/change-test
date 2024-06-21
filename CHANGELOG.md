@@ -1,5 +1,11 @@
 # change-test
 
+## 2.2.0
+
+### Minor Changes
+
+- 6727c21: add prod PR to workflow
+
 ## 2.1.0
 
 ### Minor Changes
