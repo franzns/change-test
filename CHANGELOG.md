@@ -1,5 +1,11 @@
 # change-test
 
+## 2.2.1
+
+### Patch Changes
+
+- daa9648: change base branch
+
 ## 2.2.0
 
 ### Minor Changes
